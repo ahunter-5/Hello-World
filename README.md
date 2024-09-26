@@ -1,4 +1,41 @@
-# Hello-World
-Hello,  my name is Alex Hunter, I am a current third year honors student at The University of Iowa studying Accounting and Business Analytics/Information Systems. Upon graduation, I plan to sit for the CPA exam. For the Summer of 2024, I am interning at Principal Financial Group within their Retirement and Income Solutions business. In 2025, I will be transitioning to a role at the company within Internal Audit and Risk Consulting.
+This is a sample of a README.md file that can be used to describe a project in depth. 
 
-I am passionate about helping those in need by solving complex, unique problems using various technology-based solutions.
+# Table of Contents
+[Project Title](url)
+
+
+[Project Description](url)
+
+
+[Methodology](url)
+
+
+[Input Files](url)
+
+
+[Documentation](url)
+
+
+[Versioning](url)
+
+# Project Title
+_Hello World Sample_
+# Project Description
+The purpose of this project is to provide examples and practice using Github and the various functionalities built into it.
+# Methodology
+### Here is an example of how to run the program:
+1. Hello_World/
+2. pgmname1.R
+3. filename1.csv
+4. examples.html
+
+# Input Files
+### Open these files and cross them off the list as you go: 
+- [ ] github.py
+- [ ] java.java
+- [ ] hello.csv
+
+# Documentation
+No additional documentation at this **TIME**
+# Versioning
+Discuss the different versions of your code, especially if big changes are made! 
